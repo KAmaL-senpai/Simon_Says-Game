@@ -54,7 +54,10 @@ On each level, the game shows a random sequence of button flashes. The player ne
 - **JavaScript**: Implementing the game logic.
 
 ## Screenshots
-(Include a screenshot of the game interface here if you have one.)
+![Screenshot (210)](https://github.com/user-attachments/assets/021b1f08-ba60-4344-a184-fe91c4b8285d)
+
+
+
 
 ## Future Enhancements
 
